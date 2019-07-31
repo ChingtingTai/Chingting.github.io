@@ -1,0 +1,148 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+
+#page1{
+background-image:url(https://i.imgur.com/hQq4olq.jpg);
+background-position:center top;
+height:500px;
+padding:60px;
+}
+
+#page2{
+background-color:rgb(250,250,250);  
+height:750px; 
+padding:60px;
+}
+
+#page3{
+background-color:Teal;
+padding:60px;
+height:1200px;  
+}
+
+#rectangle{
+background-color:#009999;
+width:650px;
+height:120px;
+margin:auto;
+text-align:center;
+padding:35px;
+margin-bottom:40px;
+margin-top:30px;
+font-family:‘Noto Sans TC’, sans-serif;
+font-size:18px;
+font-weight:300;
+color:white;
+line-height:2  
+}
+
+#page4{
+background-color:rgb(250,250,250);  
+height:1150px; 
+padding:60px;
+}
+
+#page5{
+background-color:Teal;
+padding:60px;
+height:1800px;     
+}
+
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  margin-top:40px;
+  flex-direction: row;
+}
+
+.flex-container > div {
+  width: 275px;
+  margin: 30px;
+  text-align: center;
+  line-height: 0px;
+}
+
+h1{
+  color:rgb(35,35,35);
+  text-align:center;
+  font-size:40px;
+  margin-top:0px;
+  font-family:‘Noto Sans TC’, sans-serif;
+  font-weight:800"
+}
+
+
+h2{
+  color:white;
+  font-size:25px;
+  font-family:‘Noto Sans TC’, sans-serif;
+  font-weight:500;
+  line-height:2;
+  max-width:700px;
+  margin:auto;
+  margin-top:35px;
+}
+
+
+h3{
+  font-size:18px;
+  font-family:‘Noto Sans TC’, sans-serif;
+  font-weight:300;
+  color: rgb(35,35,35);
+  line-height:2;
+  max-width:700px;
+  margin:auto;
+}
+
+h4{
+  color:white;
+  margin-top:0px;
+  font-size:25px;
+  font-family:‘Noto Sans TC’, sans-serif;
+  font-weight:500;
+}
+
+h5{
+  font-size:16px;
+  font-family:‘Noto Sans TC’, sans-serif;
+  font-weight:100;
+  line-height:2;  
+  color:white
+}
+
+
+
+
+p{
+  font-size:16px;
+  font-family:‘Noto Sans TC’, sans-serif;
+  font-weight:100;
+  line-height:2;
+  max-width:700px;
+  margin:auto;
+  margin-top:20px;
+  color:white
+}
+
+hr{
+  size:1px;
+  text-align:center;
+  max-width:700px;
+  margin:auto;
+  margin-top:30px;
+}
+
+
+  
+  
+  
+
+
+  
+
+
+
